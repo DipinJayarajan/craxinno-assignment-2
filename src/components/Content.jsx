@@ -1,9 +1,9 @@
 import React from 'react'
 import "./Content.css"
 import Bg from "../assets/Bg.png"
-import Card1 from "../assets/icon.png"
-import Card2 from "../assets/icon(1).png"
-import Card3 from "../assets/icon(2).png"
+import Card1 from "../assets/Icon.png"
+import Card2 from "../assets/Icon(1).png"
+import Card3 from "../assets/Icon(2).png"
 
 const Content = () => {
   return (
