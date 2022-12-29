@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.logo{
+    width: 250px;
+    height: auto
+}

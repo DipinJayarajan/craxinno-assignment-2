@@ -1,0 +1,14 @@
+.hero{
+    text-align: center;
+}
+
+.hero p{
+    color: #0097FE;   
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 50%;
+    font-family: serif;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1;
+}
